@@ -1,0 +1,24 @@
+.input_wrapper {
+    /* margin: auto; */
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.input_form {
+   
+}
+
+.text {
+    width: 50%;
+    height: 40px;
+    padding: 0;
+    border: 1px solid #20c6d5;
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.submit {
+    height: 40px;
+    padding: 0 1rem;
+    border: 1px solid #20c6d5;
+    border-radius: 0 0.5rem 0.5rem 0;
+}

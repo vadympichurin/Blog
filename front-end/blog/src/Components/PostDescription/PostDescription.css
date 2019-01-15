@@ -1,0 +1,21 @@
+.one_post_wrapper {
+    margin: 0 1rem;
+}
+
+.onePost_title {
+    text-align: center;
+}
+
+.onePost_body {
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+.comments_item {
+    list-style: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid #909593;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+}
